@@ -12,7 +12,7 @@ function one(){
     // two();
 }
 
-one();
+// one();
 
 if(true){
     const username = "rahul"
