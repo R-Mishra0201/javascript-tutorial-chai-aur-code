@@ -52,7 +52,12 @@ const user = {
 // const addTwo= (a,b) => (a+b);
 
 // object literal in arrow functions
-const addTwo= (a,b) => ({result: a+b});
+// const addTwo= (a,b) => ({result: a+b});
 
-console.log(addTwo(5,10));
+// console.log(addTwo(5,10));
 
+// const myArray = [1,2,3,4,5];
+
+// myArray.forEach((num) => {
+//     console.log(num);
+// });
